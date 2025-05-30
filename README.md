@@ -42,7 +42,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
   <img width="20" />
-  <img src="https://jakarta.telkomuniversity.ac.id/wp-content/uploads/2024/06/taildwinddd-300x300.webp" height="50" alt="Talwind logo"  />
+  <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" height="50" alt="Talwind logo"  />
     <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="laravel logo"  />
   <img width="20" />
