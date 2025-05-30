@@ -77,6 +77,6 @@
 
 ###
 
-<img align="right" height="500" src="https://media1.tenor.com/m/6ZhzHHYyNxoAAAAC/luffy.gif"  />
+<img align="right" height="525" src="https://media1.tenor.com/m/6ZhzHHYyNxoAAAAC/luffy.gif"  />
 
 ###
